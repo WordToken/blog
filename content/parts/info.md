@@ -2,4 +2,10 @@
 title: info
 ---
 
- There is a fool who lacks direction, like a leaf, gliding wherever the wind blows, I am he
+There is a fool who lacks wisdom, like a leaf, gliding in-whichever direction the wind blows, i am he
+
+
+
+
+
+

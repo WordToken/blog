@@ -205,6 +205,7 @@ module.exports = {
                       }
                       frontmatter {
                         title
+                        menuTitle
                       }
                     }
                   }

@@ -2,4 +2,4 @@
 title: author
 ---
 
-**Mr. Gatsby** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. :hearts:
+**Lemuel Uhuru** - Welcome to SirLemuel.com, I'm excited to use this blog as an opportunity to discuss a range of social and technological topics. I write many of these blogs with the hope of stirring conversations, so feel free to leave a relevant comment below. 
