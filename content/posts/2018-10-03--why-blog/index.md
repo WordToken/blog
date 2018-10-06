@@ -1,8 +1,8 @@
 ---
 title: Why Blog?
-subTitle: Self analysis and expression
+subTitle: Expression through introspection.
 category: "sentiment"
-cover: "photo-inner-chatter-cover.jpg
+cover: photo-inner-chatter-cover.jpg
 ---
 
-
+![unsplash.com](./photo-inner-chatter-cover.jpg)
