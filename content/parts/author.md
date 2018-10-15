@@ -2,4 +2,4 @@
 title: author
 ---
 
-**Lemuel Uhuru** - Welcome to SirLemuel.com, I'm excited to use this blog as an opportunity to discuss a range of social and technological topics. I write many of these blogs with the hope of stirring conversations, so feel free to leave a relevant comment below. 
+**Lemuel Uhuru** - Hey, I'm a software engineer and indie researcher from NYC. I am passionate about the the field of Linguistics, specifically conversational analysis, hence, the focus of my studies. That being said, research, in my view, should be a collaborative process, therefore, please feel free to comment your thoughts regarding any of my posts below.

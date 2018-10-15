@@ -2,4 +2,4 @@
 title: footnote
 ---
 
-* copyright © [sirlemuel.com](https://sirlemuel.com)
+* copyright © [WordToken.com](https://wordtoken.com)

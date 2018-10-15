@@ -2,7 +2,7 @@
 title: info
 ---
 
-There is a fool who lacks wisdom, like a leaf, gliding in-whichever direction the wind blows, i am he
+This blog explores research in the field of conversational analysis with intent to develop a framework for understanding and conducting such analysis.
 
 
 
